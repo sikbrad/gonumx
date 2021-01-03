@@ -1,4 +1,4 @@
-package main
+package gony
 
 import (
 	"fmt"

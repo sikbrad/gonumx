@@ -1,4 +1,4 @@
-package main
+package gony
 
 import (
 	"fmt"
@@ -7,8 +7,8 @@ import (
 func main() {
 	fmt.Println("gony main started")
 
-	zeros := Zeros(5,3)
-	PrintMatrix(zeros, "zeros")
+	//zeros := gony.Zeros(5,3)
+	//gony.PrintMatrix(zeros, "zeros")
 
 
 	fmt.Println("gony main finished")
